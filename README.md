@@ -1,5 +1,11 @@
-<img
-  src="https://github.com/AHChaves/AHChaves/blob/main/images/stat.svg"
-  alt="Avinal WakaTime Activity"
-/>
-<figure><embed src="https://wakatime.com/share/@73a8f96c-e62e-4c11-97fb-1591c7212850/d49bb44c-be81-4971-8aa3-25777b6ac31e.svg"></embed></figure>
+## 📊 &nbsp;Estatísticas
+
+<div style="display: flex; flex-direction: row;">
+  
+  <img style="height: auto; width: 42%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHChaves&layout=compact&text_color=9f9f9f&title_color=FF6970&bg_color=00000000&hide=ShaderLab,HLSL,ASP.NET&)](https://github.com/AHChaves/github-readme-stats)"/>
+
+  <img style= "height: auto; width: 55%;" class="img" src="https://github-readme-stats.vercel.app/api?username=AHChaves&hide=contribs,prs&show_icons=true&title_color=FF6970&text_color=9f9f9f&bg_color=00000000&icon_color=2BB0F0&hide_rank=true" />
+            
+  <a href="https://github.com/anuraghazra/github-readme-stats">            
+</div>
+<br>
