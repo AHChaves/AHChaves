@@ -1,4 +1,4 @@
-Hi 👋 My name is Arthur
+Hi, My name is Arthur
 =======================
 
 Full Stack Developer
