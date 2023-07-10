@@ -1,6 +1,8 @@
 name: WakaTime status update
 
 on:
+  deployment:
+    branches: [master]
   push:
     branches: [master]
   schedule:
