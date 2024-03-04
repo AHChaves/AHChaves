@@ -6,9 +6,10 @@ Full Stack Developer
 
 C# Forever
 
-* 🌍  I'm based in Belo Horizonte/MG
-* 🚀  I'm currently working on [Developing a game with my frinds](http://https://github.com/EduardoBirchal/Geometry-Wave)
+* 🌍  Belo Horizonte/MG
+* 🚀  I'm currently working on
 * 🧠  I'm learning python
+* Check the game I've developed with my frinds (http://https://github.com/EduardoBirchal/Geometry-Wave)
 
 ### Skills
 
@@ -38,16 +39,13 @@ C# Forever
             
   <a href="https://github.com/anuraghazra/github-readme-stats">
               
-
  </div>
 
 <br>
 
 <div style="display: flex; flex-direction: row;">
   
-
-  <img style="height: auto; width: 45%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHChaves&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt = "Top Languages" />
-
+  <img style="height: auto; width: 50%;" class="img" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AHChaves&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt = "Top Languages" />
 
 </div>
 
