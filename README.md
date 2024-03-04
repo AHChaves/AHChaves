@@ -7,7 +7,7 @@ Full Stack Developer
 C# Forever
 
 * 🌍  Belo Horizonte/MG
-* 🚀  I'm currently working on
+* 🚀  I'm currently working on improving myself 
 * 🧠  I'm learning python
 * Check the game I've developed with my frinds (http://https://github.com/EduardoBirchal/Geometry-Wave)
 
